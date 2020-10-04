@@ -41,7 +41,7 @@ This is the first app which provides both live classes and recorded lecture so t
 
 4. Used Firebase to store our data.
 
-5. Used agora APT to conduct live classes.
+5. Used agora SDK to conduct live classes.
 
 6. The backend is built in Node.js using firestore as the database and firebase authentication for handling the authentication of users. The service is deployed to the google app engine and CI/CD pipeline for the backend is supported by Cloud build. Postman is used for internal API documentation and testing of the routes.
 
@@ -49,7 +49,7 @@ This is the first app which provides both live classes and recorded lecture so t
 
 1.Figma
 
-2. Firebase
+2.Firebase
 
 3.Flutter
 
